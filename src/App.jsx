@@ -48,8 +48,8 @@ export default function App() {
                     <div className="profile-wrapper" ref={profileWrapperRef}>
                         <img src={avatarSrc} alt="Avatar" className="avatar-img" />
                         
-                        <h1>Nama Kamu</h1>
-                        <p>Deskripsi apa pun di sini</p>
+                        <h1>Cokocipkukiz</h1>
+                        <p>Free form wanderer</p>
                     </div>
                 </section>
 
